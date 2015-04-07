@@ -1,0 +1,155 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* IH14B_08_Kaimono/
+* IH14B_08_Kaimono/.classpath
+* IH14B_08_Kaimono/.project
+* IH14B_08_Kaimono/.settings/
+* IH14B_08_Kaimono/.settings/org.eclipse.jdt.core.prefs
+* IH14B_08_Kaimono/AndroidManifest.xml
+* IH14B_08_Kaimono/bin/
+* IH14B_08_Kaimono/bin/AndroidManifest.xml
+* IH14B_08_Kaimono/bin/IH14B_08_Kaimono.apk
+* IH14B_08_Kaimono/bin/classes.dex
+* IH14B_08_Kaimono/bin/classes/
+* IH14B_08_Kaimono/bin/classes/jp/
+* IH14B_08_Kaimono/bin/classes/jp/ac/
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/BuildConfig.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/KaimonoData$Item.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/KaimonoData.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/KonyuFragment.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$1$1.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$1.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$2$1.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$2.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$3.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$4.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$5.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity$MyTabListener.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MainActivity.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MiKonyuFragment.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MyHttpLoadTask.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/MyHttpSaveTask.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$attr.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$dimen.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$drawable.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$id.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$layout.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$menu.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$string.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R$style.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/R.class
+* IH14B_08_Kaimono/bin/classes/jp/ac/hal/ih14b_08_kaimono/SettingActivity.class
+* IH14B_08_Kaimono/bin/dexedLibs/
+* IH14B_08_Kaimono/bin/dexedLibs/android-support-v4-9d52c7e8c06389272a0a211876dffe10.jar
+* IH14B_08_Kaimono/bin/jarlist.cache
+* IH14B_08_Kaimono/bin/res/
+* IH14B_08_Kaimono/bin/res/crunch/
+* IH14B_08_Kaimono/bin/res/crunch/drawable-hdpi/
+* IH14B_08_Kaimono/bin/res/crunch/drawable-hdpi/ic_launcher.png
+* IH14B_08_Kaimono/bin/res/crunch/drawable-mdpi/
+* IH14B_08_Kaimono/bin/res/crunch/drawable-mdpi/ic_launcher.png
+* IH14B_08_Kaimono/bin/res/crunch/drawable-xhdpi/
+* IH14B_08_Kaimono/bin/res/crunch/drawable-xhdpi/ic_launcher.png
+* IH14B_08_Kaimono/bin/res/crunch/drawable-xxhdpi/
+* IH14B_08_Kaimono/bin/res/crunch/drawable-xxhdpi/ic_launcher.png
+* IH14B_08_Kaimono/bin/resources.ap_
+* IH14B_08_Kaimono/gen/
+* IH14B_08_Kaimono/gen/jp/
+* IH14B_08_Kaimono/gen/jp/ac/
+* IH14B_08_Kaimono/gen/jp/ac/hal/
+* IH14B_08_Kaimono/gen/jp/ac/hal/ih14b_08_kaimono/
+* IH14B_08_Kaimono/gen/jp/ac/hal/ih14b_08_kaimono/BuildConfig.java
+* IH14B_08_Kaimono/gen/jp/ac/hal/ih14b_08_kaimono/R.java
+* IH14B_08_Kaimono/ic_launcher-web.png
+* IH14B_08_Kaimono/libs/
+* IH14B_08_Kaimono/libs/android-support-v4.jar
+* IH14B_08_Kaimono/proguard-project.txt
+* IH14B_08_Kaimono/project.properties
+* IH14B_08_Kaimono/res/
+* IH14B_08_Kaimono/res/drawable-hdpi/
+* IH14B_08_Kaimono/res/drawable-hdpi/ic_launcher.png
+* IH14B_08_Kaimono/res/drawable-mdpi/
+* IH14B_08_Kaimono/res/drawable-mdpi/ic_launcher.png
+* IH14B_08_Kaimono/res/drawable-xhdpi/
+* IH14B_08_Kaimono/res/drawable-xhdpi/ic_launcher.png
+* IH14B_08_Kaimono/res/drawable-xxhdpi/
+* IH14B_08_Kaimono/res/drawable-xxhdpi/ic_launcher.png
+* IH14B_08_Kaimono/res/layout/
+* IH14B_08_Kaimono/res/layout/activity_main.xml
+* IH14B_08_Kaimono/res/layout/fragment_main.xml
+* IH14B_08_Kaimono/res/layout/konyu_fragment.xml
+* IH14B_08_Kaimono/res/layout/mikonyu_fragment.xml
+* IH14B_08_Kaimono/res/layout/setting.xml
+* IH14B_08_Kaimono/res/menu/
+* IH14B_08_Kaimono/res/menu/main.xml
+* IH14B_08_Kaimono/res/values-v11/
+* IH14B_08_Kaimono/res/values-v11/styles.xml
+* IH14B_08_Kaimono/res/values-v14/
+* IH14B_08_Kaimono/res/values-v14/styles.xml
+* IH14B_08_Kaimono/res/values-w820dp/
+* IH14B_08_Kaimono/res/values-w820dp/dimens.xml
+* IH14B_08_Kaimono/res/values/
+* IH14B_08_Kaimono/res/values/dimens.xml
+* IH14B_08_Kaimono/res/values/strings.xml
+* IH14B_08_Kaimono/res/values/styles.xml
+* IH14B_08_Kaimono/src/
+* IH14B_08_Kaimono/src/jp/
+* IH14B_08_Kaimono/src/jp/ac/
+* IH14B_08_Kaimono/src/jp/ac/hal/
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/KaimonoData.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/KonyuFragment.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/MainActivity.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/MiKonyuFragment.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/MyHttpLoadTask.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/MyHttpSaveTask.java
+* IH14B_08_Kaimono/src/jp/ac/hal/ih14b_08_kaimono/SettingActivity.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

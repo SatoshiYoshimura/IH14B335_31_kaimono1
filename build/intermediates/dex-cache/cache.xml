@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/IH14B335_31_kaimono1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b191d047c0de3e7fb0c91c98000dc937cde56784.jar"
+        jar="/Users/yoshimurasatoshi/Documents/ST41/IH14B335_31_kaimono1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/IH14B335_31_kaimono1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-2cfcc258f6165a45942d4d0a70b16f5eb34af0fd.jar"
+        jar="/Users/yoshimurasatoshi/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/yoshimurasatoshi/Documents/ST41/IH14B335_31_kaimono1/app/build/intermediates/pre-dexed/debug/classes-e7c98cba6b6cee9d7df2d83d834c2442a6877b75.jar"
+        jar="/Users/yoshimurasatoshi/Documents/ST41/IH14B335_31_kaimono1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
